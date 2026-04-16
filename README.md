@@ -1,6 +1,14 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green?logo=langchain)
+![LangGraph](https://img.shields.io/badge/LangGraph-Memory-blueviolet?logo=langchain)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange?logo=groq)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Store-lightblue)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Embeddings-yellow?logo=huggingface)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # book-agent
 
-A conversational AI agent that answers questions from your PDF documents using RAG (Retrieval-Augmented Generation). Drop any PDF into the `books/` folder and start asking questions — the agent automatically indexes it and searches the right document based on your query.
+A conversational AI agent that answers questions from your PDF documents using RAG (Retrieval-Augmented Generation). Drop any PDF into the `books/` folder and start asking questions the agent automatically indexes it and searches the right document based on your query.
 
 ## Architecture
 
